@@ -6,7 +6,7 @@ build/
 
 ## platff
 *.properties
-.idea
+.idea/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
